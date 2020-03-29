@@ -1,4 +1,4 @@
-# BUSINESS CASE: SUSHI RESTAURANT IN MILAN
+BUSINESS CASE: SUSHI RESTAURANT IN MILAN
 
 Welcome to this business case, which is the final project for the IBM Data Science Professional Certification!
 
